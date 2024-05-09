@@ -7,7 +7,14 @@ title: Blog
     background-image: url('assets/images/0515aa6cf40a77074dc1dfc6ea6724a6.jpg');
     background-size: cover; /* 覆盖整个页面 */
     background-position: 50% 20%; /* 使背景图片居中 */
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
   }
+  @media (max-width: 768px) {
+  body {
+    background-position: 50% 10%; /* 调整在小屏幕上的位置 */
+  }
+}
 </style>
 
 <h1>Latest Posts</h1>

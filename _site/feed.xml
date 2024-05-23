@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-23T08:51:39+00:00</updated><id>/feed.xml</id><entry><title type="html">Mathjax</title><link href="/2024/05/23/MathJax.html" rel="alternate" type="text/html" title="Mathjax" /><published>2024-05-23T00:00:00+00:00</published><updated>2024-05-23T00:00:00+00:00</updated><id>/2024/05/23/MathJax</id><content type="html" xml:base="/2024/05/23/MathJax.html"><![CDATA[<p>这是一个内联数学公式的例子：$E=mc^2$。</p>
+
+<p>这是一个块状数学公式的例子：
+\(x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}\)</p>]]></content><author><name>boda</name></author><summary type="html"><![CDATA[这是一个内联数学公式的例子：$E=mc^2$。]]></summary></entry><entry><title type="html">Planuml图</title><link href="/2024/05/23/planUML%E5%9B%BE.html" rel="alternate" type="text/html" title="Planuml图" /><published>2024-05-23T00:00:00+00:00</published><updated>2024-05-23T00:00:00+00:00</updated><id>/2024/05/23/planUML%E5%9B%BE</id><content type="html" xml:base="/2024/05/23/planUML%E5%9B%BE.html"><![CDATA[<div class="plantuml"><svg contentStyleType='text/css' height='149px' preserveAspectRatio='none' style='width:105px;height:149px;background:#FFFFFF;' version='1.1' viewBox='0 0 105 149' width='105px' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' zoomAndPan='magnify'><defs/><g><line style='stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;' x1='23' x2='23' y1='36.2969' y2='114.5625'/><line style='stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;' x1='77' x2='77' y1='36.2969' y2='114.5625'/><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='37' x='5' y='5'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='23' x='12' y='24.9951'>Cat</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='37' x='5' y='113.5625'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='23' x='12' y='133.5576'>Cat</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='43' x='56' y='5'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='29' x='63' y='24.9951'>Dog</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='43' x='56' y='113.5625'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='29' x='63' y='133.5576'>Dog</text><polygon fill='#181818' points='65.5,63.4297,75.5,67.4297,65.5,71.4297,69.5,67.4297' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;' x1='23.5' x2='71.5' y1='67.4297' y2='67.4297'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='30' x='30.5' y='62.3638'>hello</text><polygon fill='#181818' points='34.5,92.5625,24.5,96.5625,34.5,100.5625,30.5,96.5625' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;' x1='28.5' x2='76.5' y1='96.5625' y2='96.5625'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='11' x='40.5' y='91.4966'>hi</text></g></svg></div>]]></content><author><name>boda</name></author><summary type="html"><![CDATA[CatCatDogDoghellohi]]></summary></entry><entry><title type="html">Plantuml序列图</title><link href="/2024/05/23/plantuml%E5%BA%8F%E5%88%97%E5%9B%BE.html" rel="alternate" type="text/html" title="Plantuml序列图" /><published>2024-05-23T00:00:00+00:00</published><updated>2024-05-23T00:00:00+00:00</updated><id>/2024/05/23/plantuml%E5%BA%8F%E5%88%97%E5%9B%BE</id><content type="html" xml:base="/2024/05/23/plantuml%E5%BA%8F%E5%88%97%E5%9B%BE.html"><![CDATA[<div class="plantuml"><svg contentStyleType='text/css' height='208px' preserveAspectRatio='none' style='width:292px;height:208px;background:#FFFFFF;' version='1.1' viewBox='0 0 292 208' width='292px' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' zoomAndPan='magnify'><defs/><g><line style='stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;' x1='28' x2='28' y1='36.2969' y2='172.8281'/><line style='stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;' x1='265' x2='265' y1='36.2969' y2='172.8281'/><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='46' x='5' y='5'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='32' x='12' y='24.9951'>Alice</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='46' x='5' y='171.8281'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='32' x='12' y='191.8232'>Alice</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='42' x='244' y='5'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='28' x='251' y='24.9951'>Bob</text><rect fill='#E2E2F0' height='30.2969' rx='2.5' ry='2.5' style='stroke:#181818;stroke-width:0.5;' width='42' x='244' y='171.8281'/><text fill='#000000' font-family='sans-serif' font-size='14' lengthAdjust='spacing' textLength='28' x='251' y='191.8232'>Bob</text><polygon fill='#181818' points='253,63.4297,263,67.4297,253,71.4297,257,67.4297' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;' x1='28' x2='259' y1='67.4297' y2='67.4297'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='149' x='35' y='62.3638'>Authentication Request</text><polygon fill='#181818' points='39,92.5625,29,96.5625,39,100.5625,35,96.5625' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;' x1='33' x2='264' y1='96.5625' y2='96.5625'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='159' x='45' y='91.4966'>Authentication Response</text><polygon fill='#181818' points='253,121.6953,263,125.6953,253,129.6953,257,125.6953' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;' x1='28' x2='259' y1='125.6953' y2='125.6953'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='203' x='35' y='120.6294'>Another authentication Request</text><polygon fill='#181818' points='39,150.8281,29,154.8281,39,158.8281,35,154.8281' style='stroke:#181818;stroke-width:1.0;'/><line style='stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;' x1='33' x2='264' y1='154.8281' y2='154.8281'/><text fill='#000000' font-family='sans-serif' font-size='13' lengthAdjust='spacing' textLength='213' x='45' y='149.7622'>Another authentication Response</text></g></svg></div>]]></content><author><name>boda</name></author><summary type="html"><![CDATA[AliceAliceBobBobAuthentication RequestAuthentication ResponseAnother authentication RequestAnother authentication Response]]></summary></entry><entry><title type="html">代码高亮</title><link href="/2024/05/23/%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE.html" rel="alternate" type="text/html" title="代码高亮" /><published>2024-05-23T00:00:00+00:00</published><updated>2024-05-23T00:00:00+00:00</updated><id>/2024/05/23/%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE</id><content type="html" xml:base="/2024/05/23/%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE.html"><![CDATA[<p>```ruby
+def print_hi(name)
+  puts “Hi, #{name}”
+end
+print_hi(‘Tom’)
+#=&gt; prints ‘Hi, Tom’ to STDOUT.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[```ruby def print_hi(name) puts “Hi, #{name}” end print_hi(‘Tom’) #=&gt; prints ‘Hi, Tom’ to STDOUT.]]></summary></entry><entry><title type="html">Bootstrap下拉菜单</title><link href="/2024/05/15/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html" rel="alternate" type="text/html" title="Bootstrap下拉菜单" /><published>2024-05-15T00:00:00+00:00</published><updated>2024-05-15T00:00:00+00:00</updated><id>/2024/05/15/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95</id><content type="html" xml:base="/2024/05/15/Bootstrap%E4%B8%8B%E6%8B%89%E8%8F%9C%E5%8D%95.html"><![CDATA[<div class="dropdown">
+    <button type="button" class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">主题
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">Java</a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">数据挖掘</a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">数据通信/网络</a>
+        </li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">分离的链接</a>
+        </li>
+    </ul>
+</div>]]></content><author><name>Bootstrap</name></author><summary type="html"><![CDATA[主题 Java 数据挖掘 数据通信/网络 分离的链接]]></summary></entry><entry><title type="html">Bootstrap内容居中</title><link href="/2024/05/15/Bootstrap%E5%86%85%E5%AE%B9%E5%B1%85%E4%B8%AD.html" rel="alternate" type="text/html" title="Bootstrap内容居中" /><published>2024-05-15T00:00:00+00:00</published><updated>2024-05-15T00:00:00+00:00</updated><id>/2024/05/15/Bootstrap%E5%86%85%E5%AE%B9%E5%B1%85%E4%B8%AD</id><content type="html" xml:base="/2024/05/15/Bootstrap%E5%86%85%E5%AE%B9%E5%B1%85%E4%B8%AD.html"><![CDATA[<div class="row">
+    <div class="center-block" style="width:200px;background-color:#ccc;">
+      居中咯
+    </div>
+  </div>]]></content><author><name>Bootstrap</name></author><summary type="html"><![CDATA[居中咯]]></summary></entry><entry><title type="html">Bootstrap响应式实用工具</title><link href="/2024/05/15/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7.html" rel="alternate" type="text/html" title="Bootstrap响应式实用工具" /><published>2024-05-15T00:00:00+00:00</published><updated>2024-05-15T00:00:00+00:00</updated><id>/2024/05/15/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7</id><content type="html" xml:base="/2024/05/15/Bootstrap%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7.html"><![CDATA[<div class="container" style="padding: 40px;">
+    <div class="row visible-on">
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-xs">特别小型</span>
+            <span class="visible-xs">✔ 在特别小型设备上可见</span>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-sm">小型</span>
+            <span class="visible-sm">✔ 在小型设备上可见</span>
+        </div>
+        <div class="clearfix visible-xs"></div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-md">中型</span>
+            <span class="visible-md">✔ 在中型设备上可见</span>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <span class="hidden-lg">大型</span>
+            <span class="visible-lg">✔ 在大型设备上可见</span>
+        </div>
+    </div>
+</div>]]></content><author><name>Bootstrap</name></author><summary type="html"><![CDATA[特别小型 ✔ 在特别小型设备上可见 小型 ✔ 在小型设备上可见 中型 ✔ 在中型设备上可见 大型 ✔ 在大型设备上可见]]></summary></entry><entry><title type="html">Bootstrap图片</title><link href="/2024/05/15/Bootstrap%E5%9B%BE%E7%89%87.html" rel="alternate" type="text/html" title="Bootstrap图片" /><published>2024-05-15T00:00:00+00:00</published><updated>2024-05-15T00:00:00+00:00</updated><id>/2024/05/15/Bootstrap%E5%9B%BE%E7%89%87</id><content type="html" xml:base="/2024/05/15/Bootstrap%E5%9B%BE%E7%89%87.html"><![CDATA[<img src="assets/images/哆啦a梦jpeg.jpeg" class="img-rounded">
+<img src="assets/images/6dc3a1dff453445912f133e8049982f1.jpg" class="img-circle">
+<img src="assets/images/dad0ed18628372022225d08b197c8808.jpg" class="img-thumbnail">]]></content><author><name>Bootstrap</name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Bootstrap垂直的按钮组</title><link href="/2024/05/15/Bootstrap%E5%9E%82%E7%9B%B4%E7%9A%84%E6%8C%89%E9%92%AE%E7%BB%84.html" rel="alternate" type="text/html" title="Bootstrap垂直的按钮组" /><published>2024-05-15T00:00:00+00:00</published><updated>2024-05-15T00:00:00+00:00</updated><id>/2024/05/15/Bootstrap%E5%9E%82%E7%9B%B4%E7%9A%84%E6%8C%89%E9%92%AE%E7%BB%84</id><content type="html" xml:base="/2024/05/15/Bootstrap%E5%9E%82%E7%9B%B4%E7%9A%84%E6%8C%89%E9%92%AE%E7%BB%84.html"><![CDATA[<div class="btn-group-vertical">
+    <button type="button" class="btn btn-default">按钮 1</button>
+    <button type="button" class="btn btn-default">按钮 2</button>
+    <div class="btn-group-vertical">
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        下拉
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+        <li><a href="#">下拉链接 1</a></li>
+        <li><a href="#">下拉链接 2</a></li>
+    </ul>
+    </div>
+</div>]]></content><author><name>Bootstrap</name></author><summary type="html"><![CDATA[按钮 1 按钮 2 下拉 下拉链接 1 下拉链接 2]]></summary></entry><entry><title type="html">Bootstrap复选框和单选框</title><link href="/2024/05/15/Bootstrap%E5%A4%8D%E9%80%89%E6%A1%86%E5%92%8C%E5%8D%95%E9%80%89%E6%A1%86.html" rel="alternate" type="text/html" title="Bootstrap复选框和单选框" /><published>2024-05-15T00:00:00+00:00</published><updated>2024-05-15T00:00:00+00:00</updated><id>/2024/05/15/Bootstrap%E5%A4%8D%E9%80%89%E6%A1%86%E5%92%8C%E5%8D%95%E9%80%89%E6%A1%86</id><content type="html" xml:base="/2024/05/15/Bootstrap%E5%A4%8D%E9%80%89%E6%A1%86%E5%92%8C%E5%8D%95%E9%80%89%E6%A1%86.html"><![CDATA[<label for="name">默认的复选框和单选按钮的实例</label>
+<div class="checkbox">
+    <label><input type="checkbox" value="">选项 1</label>
+</div>
+<div class="checkbox">
+    <label><input type="checkbox" value="">选项 2</label>
+</div>
+<div class="radio">
+    <label>
+        <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked> 选项 1
+    </label>
+</div>
+<div class="radio">
+    <label>
+        <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">选项 2 - 选择它将会取消选择选项 1
+    </label>
+</div>
+<label for="name">内联的复选框和单选按钮的实例</label>
+<div>
+    <label class="checkbox-inline">
+        <input type="checkbox" id="inlineCheckbox1" value="option1"> 选项 1
+    </label>
+    <label class="checkbox-inline">
+        <input type="checkbox" id="inlineCheckbox2" value="option2"> 选项 2
+    </label>
+    <label class="checkbox-inline">
+        <input type="checkbox" id="inlineCheckbox3" value="option3"> 选项 3
+    </label>
+    <label class="radio-inline">
+        <input type="radio" name="optionsRadiosinline" id="optionsRadios3" value="option1" checked> 选项 1
+    </label>
+    <label class="radio-inline">
+        <input type="radio" name="optionsRadiosinline" id="optionsRadios4"  value="option2"> 选项 2
+    </label>
+</div>]]></content><author><name>Bootstrap</name></author><summary type="html"><![CDATA[默认的复选框和单选按钮的实例 选项 1 选项 2 选项 1 选项 2 - 选择它将会取消选择选项 1 内联的复选框和单选按钮的实例 选项 1 选项 2 选项 3 选项 1 选项 2]]></summary></entry></feed>
